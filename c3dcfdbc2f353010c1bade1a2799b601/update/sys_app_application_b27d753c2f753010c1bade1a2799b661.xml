@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Face Validate</description>
+        <device_type>browser</device_type>
+        <hint>Face Validate</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-03 16:25:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b27d753c2f753010c1bade1a2799b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Face Validate</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Face Validate" source="x_363997_facval">c3dcfdbc2f353010c1bade1a2799b601</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Face Validate">c3dcfdbc2f353010c1bade1a2799b601</sys_scope>
+        <sys_update_name>sys_app_application_b27d753c2f753010c1bade1a2799b661</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-03 16:25:28</sys_updated_on>
+        <title>Face Validate</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Face Validate">b27d753c2f753010c1bade1a2799b661</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>User</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-03 16:25:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be7db57c2f753010c1bade1a2799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Face Validate" source="x_363997_facval">c3dcfdbc2f353010c1bade1a2799b601</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Face Validate">c3dcfdbc2f353010c1bade1a2799b601</sys_scope>
+        <sys_update_name>sys_app_module_be7db57c2f753010c1bade1a2799b666</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-03 16:25:28</sys_updated_on>
+        <timeline_page/>
+        <title>User</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Face Validate">c3dcfdbc2f353010c1bade1a2799b601</application>
+        <file_path/>
+        <instance_id>174e2718db078c549df22f17d496195f</instance_id>
+        <instance_name>dev100865</instance_name>
+        <name>sys_app_module_be7db57c2f753010c1bade1a2799b666</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Face Validate">b27d753c2f753010c1bade1a2799b661</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>User</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-03 16:25:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>be7db57c2f753010c1bade1a2799b666</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User</sys_name><sys_overrides/><sys_package display_value="Face Validate" source="x_363997_facval">c3dcfdbc2f353010c1bade1a2799b601</sys_package><sys_policy/><sys_scope display_value="Face Validate">c3dcfdbc2f353010c1bade1a2799b601</sys_scope><sys_update_name>sys_app_module_be7db57c2f753010c1bade1a2799b666</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-03 16:25:28</sys_updated_on><timeline_page/><title>User</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1174001190</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source>5bdcfdbc2f353010c1bade1a2799b603</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-03 16:25:28</sys_created_on>
+        <sys_id>fa7db57c2f753010c1bade1a2799b669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b0cd5937e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-03 16:25:28</sys_updated_on>
+        <type>Module</type>
+        <update_guid>367db57cee75301031865009bd5f0d69</update_guid>
+        <update_guid_history>367db57cee75301031865009bd5f0d69:-1174001190</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="User">e0ddb97c2f753010c1bade1a2799b6dc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-03 16:26:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>400a91a7341e4fdbbcc6845f6e897b29</sys_id>
+        <sys_metadata>be7db57c2f753010c1bade1a2799b666</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User</sys_name>
+        <sys_package display_value="Face Validate" source="x_363997_facval">c3dcfdbc2f353010c1bade1a2799b601</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Face Validate">c3dcfdbc2f353010c1bade1a2799b601</sys_scope>
+        <sys_scope_delete display_value="">084ce21d34a645c1bf59ba6e79885749</sys_scope_delete>
+        <sys_update_name>sys_app_module_be7db57c2f753010c1bade1a2799b666</sys_update_name>
+        <sys_update_version display_value="sys_app_module_be7db57c2f753010c1bade1a2799b666">fa7db57c2f753010c1bade1a2799b669</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-03 16:26:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
